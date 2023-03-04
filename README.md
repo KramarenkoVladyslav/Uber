@@ -5,5 +5,5 @@ Written on:
 + SASS
 + JavaScript
 
-Frameworks
+Frameworks:
 + BOOTSTRAP 5
